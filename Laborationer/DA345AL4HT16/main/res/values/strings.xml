@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboration4d</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instruction">Mata in värden och välj räknesätt</string>
+    <string name="number1">Tal 1</string>
+    <string name="number2">Tal 2</string>
+    <string name="btnCalculate">Beräkna</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="resultTitle">Resultat:</string>
+    <string name="operators">Räknesätt:</string>
+</resources>

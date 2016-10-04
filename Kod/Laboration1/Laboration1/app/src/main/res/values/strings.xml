@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Summarizer</string>
+    <string name="Hello">Hello students!</string>
+    <string name="etName">Name</string>
+    <string name="etPhone">Phone</string>
+    <string name="etEmail">Email</string>
+    <string name="btnSummary">Summary</string>
+    <string name="tvSummary"/>
+    <string name="btnColor">Color</string>
+</resources>

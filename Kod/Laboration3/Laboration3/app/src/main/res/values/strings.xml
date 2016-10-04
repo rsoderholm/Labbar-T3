@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboration3a</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">TextView med färg</string>
+</resources>

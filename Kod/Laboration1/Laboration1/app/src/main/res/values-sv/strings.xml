@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SummeraMera</string>
+    <string name="etName">Namn</string>
+    <string name="etPhone">Telefonnummer</string>
+    <string name="etEmail">Epost</string>
+    <string name="btnColor">Byt färg</string>
+    <string name="btnSummary">Summera</string>
+</resources>

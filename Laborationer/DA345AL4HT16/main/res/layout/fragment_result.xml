@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="se.mah.tsroax.laboration4d.ResultFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<!--
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="se.mah.tsroax.laboration4d.ExpressionFragment"
+        android:id="@+id/fragmentExpression"
+        tools:layout="@layout/fragment_expression" />
+-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnCalculate"
+        android:id="@+id/btnCalculate" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/resultTitle"
+        android:id="@+id/tvResult" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="12+11.2=23.2"
+        android:id="@+id/tvCalculation"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16sp" />
+
+</LinearLayout>
