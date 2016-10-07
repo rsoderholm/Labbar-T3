@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboration2b</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvClick">0 </string>
+    <string name="btnClick">ClickMe</string>
+</resources>
